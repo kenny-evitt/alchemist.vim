@@ -18,16 +18,16 @@ Python:
 
 3. Which pluging are you using:
 
-[ ] basic omnifunc
-[ ] YouCompleteMe
-[ ] deoplete
+ - [ ] basic omnifunc
+ - [ ] YouCompleteMe
+ - [ ] deoplete
 
 4. Which steps of Debugging passed?
 
-[ ] Elixir Module definition
-[ ] Elixir Function definition
-[ ] Elixir Module/Function docs
-[ ] Your Project Module definition
-[ ] Your Project Function definition
+ - [ ] Elixir Module definition
+ - [ ] Elixir Function definition
+ - [ ] Elixir Module/Function docs
+ - [ ] Your Project Module definition
+ - [ ] Your Project Function definition
 
 5. Do you have a specific setup? Like Docker and etc
